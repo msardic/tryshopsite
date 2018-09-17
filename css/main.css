@@ -1,0 +1,160 @@
+html {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+.topbar {
+  height: 40px;
+  width: 1440px;
+  background-color: #33333a;
+}
+
+.toptext {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 14px;
+  font-size: 12px;
+}
+
+.navibar {
+  height: 80px;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.nav-left {
+  background-color: #ffffff;
+}
+.logobox {
+  float: left;
+  margin-left: 150px;
+  background-color:#ffffff;
+  padding: 21px 10px;
+}
+.sname {
+  font-size: 30px;
+  color:black;
+}
+.left-box2 {
+  margin-left: 41px;
+
+  background-color: #ffffff;
+}
+.left-box3 {
+  background-color:#ffffff;
+}
+.left-box4 {
+  background-color: #ffffff;
+}
+.left-box5 {
+  background-color:#ffffff;
+}
+
+.hm,
+.fm,
+.am,
+.sm {
+  color:black;
+  padding: 30px 10px;
+  font-size: 12px;
+}
+
+.box {
+  padding: 30px 20px;
+  float: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+.username {
+  font-size:12px;
+  padding:32px 10px;
+  float:left;
+  margin-left: 220px;
+  
+}
+
+.pphoto{
+   float: left;
+  margin: 22px 15px;
+  border-radius: 50%;
+}
+
+.searchicon {
+   float: left;
+  margin: 22px 15px;
+}
+
+.heart {
+    float: left;
+  margin: 22px 15px;
+}
+
+.shopbag{
+    float: left;
+  margin: 19px 15px;
+}
+
+.item1 {
+  font-size:24px;
+  
+}
+
+.con {
+  font-size:12px;
+  margin: 22px 10px;
+
+}
+
+.icons {
+  height:28px;
+  width:28px;
+}
+
+.triangle{
+  float: left;
+  width: 8px;
+  height: 8px;
+  transform: rotate(-45deg);
+  border: solid 1px #000000;
+  border-left: 1px;
+  border-top: 1px;
+  margin-right: 8px;
+  margin-top: 2px;
+}
+
+
+.firstlist{
+ /* background-color:blueviolet; */
+  float:left;
+  margin-left:160px;
+    }
+
+.secondlist{
+ /* background-color:lightpink; */
+  float:left;
+}
+
+.thirdlist{
+ /* background-color:lightslategray; */
+  float:left;
+}
+
+.fourthlist{
+ /* background-color:darkgoldenrod; */
+  float:left;
+}
+
+.fivthlist{
+ /* background-color: darkkhaki; */
+  float:left;
+}
+
+.mar{
+  margin-left:50px;
+}
+
+.containerbar{
+  margin-top: 30px;
+}
