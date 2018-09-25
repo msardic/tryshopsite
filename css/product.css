@@ -27,6 +27,7 @@
 }
 
 .sortbar {
+  margin-top: 78px;
   height: 60px;
   width: 1440px;
   background-color: #ffffff;
@@ -46,7 +47,7 @@
 .sortby {
   float: left;
   margin-left: 810px;
-  margin-top: 13px;
+  margin-top: 15px;
   font-size: 24px;
 }
 
@@ -73,7 +74,7 @@
   border-left: 1px;
   border-top: 1px;
   margin-right: 8px;
-  margin-top: 11px;
+  margin-top: 4px;
   float: right;
 }
 
@@ -192,3 +193,226 @@
   font-weight: bold;
 
 }
+
+.rightcontainer{
+  width: 263px;
+  height:482px;
+  background-color:white;
+  position: absolute;
+  
+}
+
+.one{
+  margin-left: 443px;
+  margin-top: 40px;
+}
+
+.two{
+  margin-left: 735px;
+  margin-top: 40px;
+}
+
+.three{
+  margin-left: 1028px;
+  margin-top: 40px;
+}
+
+.four{
+  margin-left: 443px;
+  margin-top: 560px;
+}
+
+.five{
+  margin-left: 735px;
+  margin-top: 560px;
+}
+
+.six{
+  margin-left: 1028px;
+  margin-top: 560px;
+}
+
+.seven{
+  margin-left: 443px;
+  margin-top: 1080px;
+}
+
+.eight{
+  margin-left: 735px;
+  margin-top: 1080px;
+}
+
+.nine{
+  margin-left: 1028px;
+  margin-top: 1080px;
+}
+
+.ten{
+  margin-left: 443px;
+  margin-top: 1600px;
+}
+
+.eleven{
+  margin-left: 735px;
+  margin-top: 1600px;
+}
+
+.twelve{
+  margin-left: 1028px;
+  margin-top: 1600px;
+}
+
+.loading{
+  margin-top: 2120px;
+  margin-left:853px;
+  position: absolute;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.67;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #33333a;
+}
+
+.loadingimg{
+  width: 23.1px;
+  height: 20px;
+  margin-top: 2119px;
+  margin-left: 405px;
+  position: absolute;
+}
+
+
+
+.productimage{
+  width: 263px;
+  height: 390px;
+  background-color: red;
+
+}
+
+.productprice{
+  font-size: 14px;
+  line-height: 3.14;
+  color: #33333a;
+}
+
+.productname{
+  font-size: 16px;
+  line-height: 1.56;
+  color: #33333a;
+}
+
+.new1{
+  width: 50px;
+  height: 20px;
+  background-color: #ff6008;
+  margin-top: 10px;
+  margin-left:10px;
+  color:#ffffff;
+  font-size: 12px;
+  line-height: 1.67;
+  text-align: center;
+  }
+
+  .rightsection{
+    position: relative;
+  }
+
+  .bottomsection{
+  margin-top: 2860px;
+  width: 1440px;
+  height: 320px;
+  background-color: #33333a;
+  }
+
+  .headerbottom{
+  font-size: 18px;
+  line-height: 1.67;
+  color: #ffffff;
+  
+  }
+
+  .kon{
+  font-size: 14px;
+  line-height: 2.5;
+  color: #dedede;
+  }
+
+   .contactus{
+    float:left;
+    margin-top:42px;
+    margin-left: 120px;
+  
+  }
+
+  .categories{
+    float:left;
+    margin-top:42px;
+    margin-left: 149px;
+  
+  } 
+
+  .partners{
+    float:left;
+    margin-top:42px;
+    margin-left: 109px;
+  
+  }
+
+  .subscribe{
+    float: left;
+    margin-left: 50px;
+    margin-top:42px;
+  }
+
+  .eyecontainer{
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.43;
+  color: #dedede;
+  margin: 11px 21px 9px 10px;
+  }
+
+  .enteryouremail{
+  margin-top: 18px;
+  width: 360px;
+  height: 40px;
+  background-color: #33333a;
+  border: solid 1px #666666;
+  }
+
+  .smikon{
+  width: 24px;
+  height: 24px;
+  }
+
+  .socialmedia{
+    margin-top: 20px;
+  }
+
+  .subsbutton{
+  margin-left: 30px;
+  margin-top:90px;
+  width: 166px;
+  height: 40px;
+  float:left;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 3.20;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #33333a;
+  background-color:#ffffff;
+  }
+
+  .copyright{
+  width: 213px;
+  height: 25px;
+  font-size: 14px;
+  line-height: 1.79;
+  color: #dedede;
+  position: absolute;
+  margin-left: 616px;
+  margin-top: 256px;
+  }
