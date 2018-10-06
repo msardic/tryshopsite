@@ -1,0 +1,350 @@
+.navline {
+  width: 1440px;
+  height: 80px;
+  background-color: #ffffff;
+  background-color: var(--white);
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.05);
+}
+
+.navline-1 {
+  margin-left: 150px;
+  float: left;
+  width: 62px;
+  height: 40px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.22;
+  letter-spacing: normal;
+  color: #030303;
+}
+.navline-2 {
+  float: left;
+  width: 46px;
+  height: 40px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.22;
+  letter-spacing: normal;
+  color: #030303;
+}
+.navline-3 {
+  float: left;
+  width: 166px;
+  height: 40px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.22;
+  letter-spacing: normal;
+  color: #030303;
+}
+
+.triangle-1 {
+  width: 8px;
+  height: 8px;
+  transform: rotate(-45deg);
+  border: solid 1px #000000;
+  border-left: 1px;
+  border-top: 1px;
+  margin-top: 35px;
+  margin-right: 13px;
+  float: left;
+}
+
+.container {
+  height: 1150px;
+  width: 1440px;
+}
+
+.xcx {
+  margin-top: 20px;
+}
+
+.tinypic {
+  margin-left: 149px;
+  margin-top: 40px;
+  width: 68px;
+  height: 420px;
+  float: left;
+}
+
+.tpic {
+  margin-bottom: 20px;
+  width: 68px;
+  height: 68px;
+  object-fit: contain;
+  background-color: #ffffff;
+}
+
+.tpic1 {
+  width: 68px;
+  height: 68px;
+  object-fit: contain;
+  background-color: #ffffff;
+}
+
+.iconvideo {
+  margin-top: 19px;
+  margin-left: 19px;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.tinypic-1 {
+  border: solid 2px #ff6008;
+}
+
+.bigpic-1 {
+  margin-left: 30px;
+  margin-top: 40px;
+  width: 458px;
+  height: 690px;
+  object-fit: contain;
+  float: left;
+}
+
+.article {
+  float: left;
+  margin-left: 29px;
+  margin-top: 53px;
+  width: 555px;
+  height: 1067px;
+  background-color: lightgray;
+}
+
+.rectangle-1 {
+  width: 555px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #030303;
+}
+
+.rectangle-2 {
+  width: 552px;
+  height: 30px;
+}
+
+.rectangle-2-1 {
+  float: left;
+  width: 131px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #ff6008;
+  margin-top: 9px;
+}
+
+.rectangle-2-2 {
+  float: left;
+  margin-top: 12px;
+  margin-left: 238px;
+}
+
+.rectangle-2-3 {
+  float: left;
+  margin-top: 14px;
+  margin-left: 10px;
+}
+
+.star {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.brectangle-2 {
+  margin-top: 18px;
+  width: 555px;
+  height: 130px;
+  background-color: #ffffff;
+  background-color: var(--white);
+  box-shadow: 0 -2px 0 0 #f3f3f3;
+}
+
+.rectangle-3 {
+  padding-top: 11px;
+  width: 90px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.rectangle-4 {
+  padding-top: 10px;
+  width: 535px;
+  height: 60px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #666666;
+}
+
+.rectangle-5 {
+  width: 74px;
+  height: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #33333a;
+}
+
+.brectangle-3 {
+  margin-top: 10px;
+  width: 555px;
+  height: 50px;
+  box-shadow: 0 -2px 0 0 #f3f3f3;
+}
+
+.rectangle-6 {
+  margin-top: 11px;
+  float: left;
+  width: 165px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.rectangle-7 {
+  margin-left: 122px;
+  margin-top: 18px;
+  float: left;
+  width: 253px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #666666;
+}
+
+.brectangle-4 {
+  width: 555px;
+  height: 50px;
+  background-color: #ffffff;
+  background-color: var(--white);
+  box-shadow: 0 -2px 0 0 #f3f3f3;
+}
+
+.rectangle-8 {
+  margin-top: 11px;
+  float: left;
+  width: 91px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000000;
+}
+.rectangle-9 {
+  margin-left: 196px;
+  margin-top: 18px;
+  float: left;
+  width: 243px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #666666;
+}
+
+.brectangle-5 {
+  width: 555px;
+  height: 50px;
+  background-color: #ffffff;
+  background-color: var(--white);
+  box-shadow: 0 -2px 0 0 #f3f3f3;
+}
+
+.rectangle-10 {
+  margin-top: 11px;
+  float: left;
+  width: 70px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000000;
+}
+.rectangle-11 {
+  margin-left: 220px;
+  margin-top: 18px;
+  float: left;
+  width: 243px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #666666;
+}
+
+.brectangle-5 {
+  width: 555px;
+  height: 235px;
+  background-color: #ffffff;
+  background-color: var(--white);
+  box-shadow: 0 -2px 0 0 #f9f8f6;
+}
